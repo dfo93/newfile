@@ -1,0 +1,7 @@
+Package: NewFileDiscovery
+Type: Package
+Title: Opens a CSV file in R
+Version: 0.1.0
+Author: Dave Ovitt
+Encoding: UTF-8
+LazyData: true
